@@ -6,7 +6,8 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Install Mercurial",
-      "text": "1_install.md"
+      "text": "1_install.md",
+      "verify": "verify.sh"
     }],
     "intro": {
       "text": "intro.md",
@@ -21,6 +22,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "ubuntu"
   }
 }
