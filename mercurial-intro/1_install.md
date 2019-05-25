@@ -1,7 +1,4 @@
-
-## Install Mercurial
-
-you can install `mercurial` from ubuntu repository by run this command
+You can install `mercurial` from ubuntu repository by run this command
 
 `sudo apt install -y mercurial`{{execute}}
 
@@ -13,4 +10,3 @@ The Mercurial program is named hg.
 Let's check hg version to be sure that it's installed correct.
 
 `hg version`{{execute}}
-
