@@ -7,7 +7,7 @@
     "steps": [{
       "title": "Step 1 - Install Mercurial",
       "text": "1_install.md",
-      "verify": "verify.sh"
+      "verify": "verify-install.sh"
     }],
     "intro": {
       "text": "intro.md",
