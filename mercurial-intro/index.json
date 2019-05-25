@@ -1,20 +1,12 @@
 {
   "title": "Introduction to Mercurial",
-  "description": "Basic HG operations",
+  "description": "Basic mercurial operations",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Install Mercurial",
-      "text": "step1.md"
-    },
-    {
-      "title": "Step 2 - Init Repository",
-      "text": "step2.md"
-    },
-    {
-      "title": "Step 3 - Commit Changes",
-      "text": "step2.md"
+      "text": "1_install.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -26,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
