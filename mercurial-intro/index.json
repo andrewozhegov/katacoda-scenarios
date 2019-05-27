@@ -8,7 +8,17 @@
       "title": "Step 1 - Install Mercurial",
       "text": "1_install.md",
       "verify": "verify-install.sh"
+    },
+    {
+      "title": "Step 2 - Inin reporitory",
+      "text": "2_init.md",
+      "verify": "verify-init.sh"
     }],
+    "assets": {
+      "host01": [
+        {"file": "hello-world", "target": "/root/hello-world/"}
+      ]
+    },
     "intro": {
       "text": "intro.md",
       "credits": ""
