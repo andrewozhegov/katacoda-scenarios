@@ -1,6 +1,6 @@
 {
   "title": "Introduction to Mercurial",
-  "description": "Basic mercurial operations",
+  "description": "Modern Version Control System",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
@@ -14,6 +14,10 @@
       "title": "Step 2 - Inin reporitory",
       "text": "2_init.md",
       "verify": "verify-init.sh"
+    },
+    {
+      "title": "Step 3 - Commiting changes",
+      "text": "3_commit.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -28,6 +32,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "bash"
   }
 }
