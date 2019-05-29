@@ -28,18 +28,19 @@ hg version
 ### Step 2 - Init repository
 
 ```
-echo "[ui]
-username = John Doe <john@example.com>" > .hgrc
-```
-
-```
+ls
 hg init
+hg status
 ```
 
 ### Step 3 - Committing files
 
 ```
-hg status
+echo "[ui]
+username = John Doe <john@example.com>" > .hgrc
+```
+
+```
 hg add
 hg commit
 hg log
