@@ -1,5 +1,5 @@
 
-`cd hello-world`{{execute}}
+`cd ~/hello-world`{{execute}}
 
 `hg init`{{execute}}
 

@@ -7,12 +7,12 @@
     "steps": [{
       "title": "Step 1 - Install Mercurial",
       "text": "1_install.md",
-      "courseData": "prepare.sh",
       "verify": "verify-install.sh"
     },
     {
-      "title": "Step 2 - Inin reporitory",
+      "title": "Step 2 - Init reporitory",
       "text": "2_init.md",
+      "courseData": "prepare.sh",
       "verify": "verify-init.sh"
     },
     {

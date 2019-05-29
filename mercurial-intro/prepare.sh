@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir /root/hello-world
-echo "Hello World!" > /root/hello-world/hello-world
+mkdir ~/hello-world
+echo "Hello World!" > ~/hello-world/hello-world
