@@ -1,1 +1,1 @@
-[ -d "~/hello-world/.hg" ] && echo "done"
+[ -d ~/hello-world/.hg ] && echo done

@@ -1,1 +1,1 @@
-[ -n "`which hg`" ] && echo "done"
+[ -n `which hg` ] && echo done
