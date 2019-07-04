@@ -61,13 +61,27 @@ hg diff
 
 hg add
 hg commit
-hg log
+hg log -l 10
 hg show
 ```
 
 ---
 
+# Mercurial. Heads and Branches
+
+## Work with heads
+
+```
+hg log
+hg up -r
+hg commit
+hg log -G
+```
+
 ## Work with branches
+
+
+## Tags
 
 ---
 
