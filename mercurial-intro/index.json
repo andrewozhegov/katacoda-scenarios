@@ -2,7 +2,7 @@
   "title": "Introduction to Mercurial",
   "description": "Modern Version Control System",
   "difficulty": "beginner",
-  "time": "5 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Install Mercurial",
@@ -22,7 +22,15 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credit": ""
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "my-repo",
+          "target": "~/"
+        }
+      ]
     },
     "finish": {
       "text": "finish.md"

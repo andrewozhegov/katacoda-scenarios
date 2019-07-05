@@ -1,0 +1,1 @@
+Mercurial have a distributed model. This means that there is a repository on every computer and there is usually an main repository that people will choose to commit their changes to and pull from.

@@ -1,0 +1,1 @@
+Installing Git for a couple of people consists of getting SSH access to the same server and installing a couple of packages.
