@@ -12,7 +12,6 @@
     {
       "title": "Step 2 - Init reporitory",
       "text": "2_init.md",
-      "courseData": "prepare.sh",
       "verify": "verify-init.sh"
     },
     {
@@ -22,15 +21,8 @@
     }],
     "intro": {
       "text": "intro.md",
+      "courseData": "prepare.sh",
       "credit": ""
-    },
-    "assets": {
-      "client": [
-        {
-          "file": "my-repo",
-          "target": "~/"
-        }
-      ]
     },
     "finish": {
       "text": "finish.md"

@@ -1,1 +1,0 @@
-SVN is a single repository that all users have to pull and commit to.
