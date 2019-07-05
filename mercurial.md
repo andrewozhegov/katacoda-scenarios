@@ -1,5 +1,27 @@
 # HG Mercurial basics
 
+hg revert # remove uncommited changes from tip or particular file
+hg diff # certain file between revisions
+hg remove
+hg cat -r 0:1 a.txt # certain file between revisions
+hg up -r 1
+hg up <brunchname>
+
+hg clone
+hg push
+hg pull
+hg rollback # remove last commit (if its not pushed)
+hg outgoing # list of commits ready to push in remote repo
+<push new heads with -f or --force>
+hg incoming
+hg merge
+hg paths # list of remote repos
+
+hg parent
+
+hg backout -r 2 --merge
+
+
 ---
 
 ## Mercurial introduction
